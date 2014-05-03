@@ -9,7 +9,28 @@ div#test {
 	background-color:red;
 }
 
-#main-navbar {
-	font-size: 20px;
-	margin-top: 20px;
+.carousel-inner .item img {
+	width: 100%;
+	max-height: 700px;
+}
+
+.brand img{
+	margin-top: 10px;
+	height: 50px;
+}
+
+.navbar-fixed-top {
+	height: 70px;
+}
+
+.navbar-nav{
+	margin-top: 10px;
+}
+
+.navbar-default .navbar-nav > li > a {
+	/*color: white;*/
+}
+
+.navbar-default{
+	/*background-color: transparent;*/
 }
