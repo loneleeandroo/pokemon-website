@@ -1,0 +1,15 @@
+section.guttered {
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+
+div#test {
+	height: 100px;
+	width: 100px;
+	background-color:red;
+}
+
+#main-navbar {
+	font-size: 20px;
+	margin-top: 20px;
+}
